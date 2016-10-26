@@ -1,0 +1,14 @@
+{
+  "name": "bigpipe-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "author": "Qiaosen Huang",
+  "dependencies": {
+    "co": "^4.6.0",
+    "koa": "^1.2.4"
+  }
+}
